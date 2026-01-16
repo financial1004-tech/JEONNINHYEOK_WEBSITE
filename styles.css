@@ -802,11 +802,13 @@ body {
 
 .contact-cta p {
     color: var(--gray-600);
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    line-height: 1.8;
 }
 
 .contact-cta .btn {
-    margin-top: 25px;
+    margin-top: 30px;
+    display: inline-block;
     background: var(--gradient);
     color: var(--white);
 }
